@@ -1,8 +1,7 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://i.ibb.co/your-banner-image.png" alt="banner" />
+<img width="1536" height="1024" alt="Sumaiya_ Frontend developer in glassmorphism" src="https://github.com/user-attachments/assets/c6803a9d-8256-45a0-8bc1-a2da796f5743" />
 </p>
-
 <h1 align="center">Hi 👋, I'm Sumaiya</h1>
 <h3 align="center">Frontend Developer | MERN Stack Enthusiast</h3>
 
