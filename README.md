@@ -42,7 +42,7 @@ I am a passionate frontend developer who loves building modern and user-friendly
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sumaiya7-ops&show_icons=true&theme=radical" />
+   <img src="https://vercel.app" alt="GitHub Stats" />
 </p>
 
 <p align="center">
@@ -50,5 +50,5 @@ I am a passionate frontend developer who loves building modern and user-friendly
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumaiya7-ops&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumaiya7-ops&layout=compact&theme=radical" alt="Top Languages" />
 </p>
