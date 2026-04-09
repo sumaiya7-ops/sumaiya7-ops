@@ -1,16 +1,55 @@
-## Hi there 👋
+<!-- Banner Image -->
+<p align="center">
+  <img src="https://i.ibb.co/your-banner-image.png" alt="banner" />
+</p>
 
-<!--
-**sumaiya7-ops/sumaiya7-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Sumaiya</h1>
+<h3 align="center">Frontend Developer | MERN Stack Enthusiast</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Location: Bangladesh  
+📧 Email: sumaiyakookie307@gmail.com  
+
+---
+
+## 🙋‍♀️ About Me
+I am a passionate frontend developer who loves building modern and user-friendly web applications.
+
+- 🌱 I am exploring Next.js  
+- 💻 I’m working on a tourism website  
+- 🚀 I love learning new technologies  
+- 🎯 Goal: Become a full-stack developer  
+
+---
+
+## 🚀 Skills
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,mongodb,git,github,vscode" />
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/sumaiya-sorhad"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+ 
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sumaiya7-ops&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumaiya7-ops&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumaiya7-ops&layout=compact&theme=radical" />
+</p>
