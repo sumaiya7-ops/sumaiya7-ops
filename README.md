@@ -38,23 +38,14 @@ I am a passionate frontend developer who loves building modern and user-friendly
 </p>
 
 ---
-## 📊 আমার GitHub স্ট্যাটস
-
 <p align="center">
-  <!-- GitHub মোট স্ট্যাটস -->
-  <img src="https://github-readme-stats.vercel.app/api?username=sumaiya7-ops&show_icons=true&theme=radical" alt="GitHub Stats" width="500"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sumaiya7-ops&show_icons=true&theme=radical" width="500"/>
 </p>
 
 <p align="center">
-  <!-- GitHub স্ট্রিক স্ট্যাটস -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumaiya7-ops&theme=radical" alt="GitHub Streak" width="500"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumaiya7-ops&theme=radical" width="500"/>
 </p>
 
 <p align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumaiya7-ops&layout=compact&theme=radical" alt="Top Languages" width="500"/>
-</p>
-
-<p align="center">
-  💻 ধন্যবাদ! তোমার কোডিং জার্নি মজাদার হোক।  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumaiya7-ops&layout=compact&theme=radical" width="500"/>
 </p>
