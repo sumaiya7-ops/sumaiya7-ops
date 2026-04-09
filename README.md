@@ -43,8 +43,7 @@ I am a passionate frontend developer who loves building modern and user-friendly
 
 
 <p align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=sumaiya7-ops&show_icons=true&theme=radical&hide_border=false&include_all_commits=true" alt="GitHub Stats" width="500"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sumaiya7-ops&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
