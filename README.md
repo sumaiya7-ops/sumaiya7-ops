@@ -4,27 +4,27 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Sumaiya</h1>
-<h3 align="center">💻 Frontend Developer | MERN Stack Enthusiast</h3>
+<h3 align="center">💻 MERN Stack Developer</h3>
 
 ---
 
 ## 🙋‍♀️ About Me
 
-I’m a passionate Frontend Developer focused on building responsive, user-friendly, and high-performance web applications using modern technologies like React and Next.js. I enjoy turning ideas into real-world projects.
+I’m a passionate MERN Stack Developer focused on building responsive, scalable, and user-friendly web applications using modern technologies.
 
 - 📍 Based in Bangladesh  
 - 🌱 Currently learning **Next.js & TypeScript**  
 - 💻 Working on a **Tourism Website (MERN Stack)**  
-- 🎯 Goal: Become a **Full-Stack Developer**  
-- 💬 Ask me about: React, JavaScript, Frontend Development  
+- 🎯 Goal: Build highly scalable Full-Stack applications  
+- 💬 Ask me about: React, JavaScript, Node.js, MongoDB  
 
 ---
 
 ## 💼 Featured Projects
 
-### 🌍 Tourism Website
+### 🌍 Tourism Website (TravelVista)
 - A modern travel booking & exploration platform  
-- Tech: React, Node.js, MongoDB  
+- Tech: React, Node.js, MongoDB, Tailwind CSS  
 - 🔗 Live: your-live-link  
 - 🔗 GitHub: your-repo-link  
 
@@ -37,17 +37,9 @@ I’m a passionate Frontend Developer focused on building responsive, user-frien
 
 ## 🚀 Tech Stack
 
-### Frontend
-HTML, CSS, JavaScript, React, Next.js
-
-### Backend
-Node.js, Express.js
-
-### Database
-MongoDB
-
-### Tools
-Git, GitHub, VS Code
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,tailwind,git,github,vscode" />
+</p>
 
 ---
 
@@ -67,11 +59,12 @@ Git, GitHub, VS Code
 ## 🌐 Connect With Me
 
 - 📧 Email: sumaiyakookie307@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/your-link  
-- 💻 GitHub: https://github.com/sumaiya7-ops  
+- 💼 LinkedIn: [linkedin.com/in/sumaiya-sorhad](https://www.linkedin.com/in/sumaiya-sorhad)
+- 💻 GitHub: [github.com/sumaiya7-ops](https://github.com/sumaiya7-ops)  
 
 ---
 
 <p align="center">
 ✨ Thanks for visiting my profile ✨
 </p>
+
