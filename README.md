@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img width="100%" src="https://github.com/user-attachments/assets/c6803a9d-8256-45a0-8bc1-a2da796f5743" />
+  <img width="100%" src="github.png " />
 </p>
 
 <h1 align="center">Hi 👋, I'm Sumaiya</h1>
