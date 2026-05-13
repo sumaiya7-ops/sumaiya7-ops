@@ -45,17 +45,6 @@ I’m a passionate MERN Stack Developer focused on building responsive, scalable
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="vercel.app" height="160" alt="GitHub Stats"/>
-  <img src="vercel.app" height="160" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="herokuapp.com" alt="GitHub Streak"/>
-</p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sumaiya7-ops&show_icons=true&theme=radical" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumaiya7-ops&layout=compact&theme=radical" height="160"/>
