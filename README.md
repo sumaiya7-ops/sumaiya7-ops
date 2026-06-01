@@ -38,7 +38,7 @@ I’m a passionate MERN Stack Developer focused on building responsive, scalable
 ## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,tailwind,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,ts,express,mongodb,tailwind,git,github,vercal,netlify,vscode" />
 </p>
 
 ---
