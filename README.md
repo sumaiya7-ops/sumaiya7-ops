@@ -22,16 +22,22 @@ I’m a passionate MERN Stack Developer focused on building responsive, scalable
 
 ## 💼 Featured Projects
 
-### 🌍 Tourism Website (TravelVista)
-- A modern travel booking & exploration platform  
-- Tech: React, Node.js, MongoDB, Tailwind CSS  
-- 🔗 Live: your-live-link  
-- 🔗 GitHub: your-repo-link  
+### 🐾 Pawsome Haven — Pet Adoption Platform
+*   **Description:** A compassionate full-stack animal welfare web application engineered for pet adoptions. Features user dashboards, role authorization, and smooth dynamic listing controls.
+*   **Tech Stack:** React.js, Node.js, Express.js, MongoDB, Tailwind CSS, BetterAuth
+*   **🔗 Live Demo:** [Visit Pawsome Haven](https://pet-adoption-one-tau.vercel.app/)
+*   **🛠️ Source Code:** [GitHub Repository](https://github.com/sumaiya7-ops/Pet-Adoption.git)
 
-### 🛒 E-commerce App
-- Full-featured MERN stack e-commerce project  
-- Features: Authentication, cart system, product management  
-- 🔗 GitHub: your-repo-link  
+### 🌍 Tourism Website (TravelVista)
+*   **Description:** A modern travel booking & exploration platform featuring fluid UI transitions, persistent data storage, and highly secure operational server channels.
+*   **Tech Stack:** React.js, Node.js, MongoDB, Tailwind CSS, Appwrite
+*   **🔗 Live Demo:** [Visit TravelVista](https://sumaiya7-ops.github.io/The-Plant-Kingdom/) 
+*   **🛠️ Source Code:** [GitHub Repository](https://github.com/sumaiya7-ops/The-Plant-Kingdom.git)
+
+### 🛍️ E-commerce Application
+*   **Description:** A production-grade commercial storefront architecture equipped with Redux state machines, Stripe routing pipelines, and full inventory management setups.
+*   **Tech Stack:** Next.js, Node.js, MongoDB, Redux Toolkit, Stripe API
+*   **🛠️ Source Code:** [GitHub Repository](https://github.com)
 
 ---
 
