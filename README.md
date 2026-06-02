@@ -53,7 +53,8 @@ I’m a passionate MERN Stack Developer focused on building responsive, scalable
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sumaiya7-ops&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumaiya7-ops&layout=compact&theme=radical" height="160"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sumaiya7-ops&layout=compact&theme=radical" height="180px" />
+
 </p>
 
 <p align="center">
