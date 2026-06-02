@@ -7,16 +7,16 @@
 <h3 align="center">💻 MERN Stack Developer</h3>
 
 ---
+## 🙋‍♂️ About Me
 
-## 🙋‍♀️ About Me
+I'm a passionate MERN Stack Developer focused on building responsive, scalable, and user-friendly web applications using modern technologies.
 
-I’m a passionate MERN Stack Developer focused on building responsive, scalable, and user-friendly web applications using modern technologies.
-
-- 📍 Based in Bangladesh  
-- 🌱 Currently learning **Next.js & TypeScript**  
-- 💻 Working on a **Tourism Website (MERN Stack)**  
-- 🎯 Goal: Build highly scalable Full-Stack applications  
-- 💬 Ask me about: React, JavaScript, Node.js, MongoDB  
+*   📍 Based in Bangladesh
+*   📚 Currently learning **Next.js & TypeScript**
+*   🚀 Built **Pawsome Haven** — A comprehensive Full-Stack Pet Adoption Platform
+*   🌍 Working on a **Tourism Website** (TravelVista) using MERN Stack
+*   🎯 Goal: Build highly scalable, secure, and production-ready Full-Stack applications
+*   💬 Ask me about: **React, Next.js, Node.js, Express, MongoDB, and Secure Auth Workflows**
 
 ---
 
