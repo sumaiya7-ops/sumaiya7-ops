@@ -58,7 +58,8 @@ I'm a passionate MERN Stack Developer focused on building responsive, scalable, 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumaiya7-ops&theme=radical"/>
+ 
+   <img src="https://streak-stats.demolab.com?user=sumaiya7-ops&theme=radical"/>
 </p>
 
 ---
