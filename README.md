@@ -66,11 +66,6 @@ A scalable e-commerce system with Redux and Stripe integration.
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=sumaiya7-ops&theme=radical" height="165"/>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sumaiya7-ops&theme=radical" width="100%"/>
-</p>
-
 ---
 
 ## 🌐 Connect With Me
