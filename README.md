@@ -48,20 +48,18 @@ I'm a passionate MERN Stack Developer focused on building responsive, scalable, 
 </p>
 
 ---
-
-## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sumaiya7-ops&show_icons=true&theme=radical" height="160"/>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sumaiya7-ops&layout=compact&theme=radical" height="180px" />
-
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sumaiya7-ops&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sumaiya7-ops&layout=compact&theme=radical" height="165" />
 </p>
 
 <p align="center">
- 
-   <img src="https://streak-stats.demolab.com?user=sumaiya7-ops&theme=radical"/>
+  <img src="https://streak-stats.demolab.com?user=sumaiya7-ops&theme=radical" height="165"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sumaiya7-ops&theme=radical" width="100%"/>
+</p>
 ---
 
 ## 🌐 Connect With Me
