@@ -38,6 +38,27 @@ Building Scalable • High-Performance • Modern Web Applications
 </p>
 
 ---
+## 🚀 About Me
+
+I'm a **Full Stack Software Engineer** passionate about building scalable, high-performance, and user-centric web applications using modern technologies.
+
+💡 I enjoy transforming complex problems into clean, efficient, and production-ready solutions while continuously improving my engineering skills.
+
+### 🌱 Currently
+
+- 🔭 Building modern Full Stack applications with **Next.js**
+- ⚡ Writing clean, scalable and maintainable code
+- 📚 Exploring advanced software architecture & performance optimization
+- 🌍 Open to **Global Remote Opportunities**
+- 💬 Ask me about **React, Next.js, TypeScript, Node.js, Express.js & MongoDB**
+
+## ⚡ Quick Facts
+
+- 🌍 Location: **Chattogram, Bangladesh**
+- 💼 Role: **Full Stack Software Engineer**
+- 🚀 Portfolio: **https://sumaiya-portfolio-pro.vercel.app**
+- 📧 Email: **sumaiyakookie307@gmail.com**
+- 🎯 Goal: Build products used by millions of users
 
 
 ## 💼 Featured Projects
