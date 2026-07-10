@@ -119,27 +119,69 @@ https://sumaiya-portfolio-pro.vercel.app
   <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,firebase,postman" />
 </p>
 ---
-
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sumaiya7-ops&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sumaiya7-ops&layout=compact&theme=radical" height="165"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sumaiya7-ops&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumaiya7-ops&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sumaiya7-ops&theme=radical" height="165"/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=sumaiya7-ops&theme=tokyonight&hide_border=true"/>
+
 </p>
+## 📈 Contribution Graph
+
+[![Sumaiya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sumaiya7-ops&theme=tokyo-night&hide_border=true)](https://github.com/sumaiya7-ops)
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sumaiya7-ops&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</p>
+## 👀 Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=sumaiya7-ops&label=Profile%20Views&color=6366F1&style=for-the-badge"/>
+
+</p>
+
+
 ---
+## 📬 Connect With Me
 
-## 🌐 Connect With Me
+<p align="center">
 
-- 📧 Email: sumaiyakookie307@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/sumaiya-sorhad  
-- 💻 GitHub: https://github.com/sumaiya7-ops  
+<a href="https://sumaiya-portfolio-pro.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
+<a href="https://www.linkedin.com/in/sumaiya-sorhad">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:sumaiyakookie307@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
 ---
 
 <p align="center">
-✨ Thanks for visiting my profile ✨
+
+⭐ Thanks for visiting my profile! ⭐
+
+<br>
+
+If you like my work, consider giving a ⭐ to my repositories.
+
 </p>
