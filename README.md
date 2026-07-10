@@ -95,7 +95,7 @@ https://sumaiya-portfolio-pro.vercel.app
 
 💻 **Repository**
 
-(Repository Link)
+(https://github.com/sumaiya7-ops/sumaiya-portfolio-pro.git)
 ---
 
 
@@ -118,7 +118,9 @@ https://sumaiya-portfolio-pro.vercel.app
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,firebase,postman" />
 </p>
+
 ---
+
 ## 📊 GitHub Analytics
 
 <p align="center">
@@ -165,7 +167,6 @@ https://sumaiya-portfolio-pro.vercel.app
 
 </p>
 
----
 ---
 
 <p align="center">
