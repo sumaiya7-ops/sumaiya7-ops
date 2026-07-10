@@ -61,24 +61,63 @@ I'm a **Full Stack Software Engineer** passionate about building scalable, high-
 - 🎯 Goal: Build products used by millions of users
 
 
-## 💼 Featured Projects
+# 🚀 Featured Projects
 
-### 🐾 Pawsome Haven — Pet Adoption Platform
-A full-stack animal adoption platform with role-based authentication and dashboard system.
+## 🐾 Pet Adoption Platform
 
-- **Tech Stack:** React, Node.js, Express, MongoDB, Tailwind CSS  
-- 🔗 Live: https://pet-adoption-one-tau.vercel.app/  
-- 🛠️ Code: https://github.com/sumaiya7-ops/Pet-Adoption.git  
+Production-ready Full Stack web application for pet adoption featuring authentication, dashboards, advanced filtering, responsive design and SEO optimization.
+
+**Tech Stack**
+
+`Next.js` • `React` • `TypeScript` • `Node.js` • `Express.js` • `MongoDB` • `Tailwind CSS`
+
+🔗 **Live**
+
+https://pet-adoption-one-tau.vercel.app
+
+💻 **Repository**
+
+https://github.com/sumaiya7-ops/Pet-Adoption
 
 ---
 
+## 💼 Personal Portfolio Website
 
-## 🚀 Tech Stack
+Modern portfolio showcasing projects, GitHub activity, technical skills and software engineering journey.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,ts,express,mongodb,tailwind,git,github,vscode" />
+**Tech Stack**
+
+`Next.js` • `React` • `TypeScript` • `Tailwind CSS`
+
+🌐 **Live**
+
+https://sumaiya-portfolio-pro.vercel.app
+
+💻 **Repository**
+
+(Repository Link)
+---
+
+
+## 🛠️ Tech Stack
+
+### 🎨 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css" />
 </p>
 
+### ⚙️ Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+### 🔧 Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,firebase,postman" />
+</p>
 ---
 
 ## 📊 GitHub Stats
