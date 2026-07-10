@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Sumaiya</h1>
-<h3 align="center">💻 MERN Stack Developer | React • Node • MongoDB</h3>
+<h3 align="center">💻 Full Stack Software Engineer | React • Next.js • TypeScript • Node.js • MongoDB</h3>
 
 ---
 
@@ -13,7 +13,7 @@
 I'm a passionate MERN Stack Developer focused on building responsive, scalable, and user-friendly web applications using modern technologies.
 
 - 📍 Based in Bangladesh  
-- 📚 Currently learning **Next.js & TypeScript**  
+- 🚀 Building production-ready full-stack web applications with modern technologies.
 - 🚀 Love building full-stack real-world projects  
 - 🎯 Goal: Build production-ready scalable applications  
 - 💬 Ask me about **React, Node.js, Express, MongoDB, Auth systems**
@@ -31,22 +31,6 @@ A full-stack animal adoption platform with role-based authentication and dashboa
 
 ---
 
-### 🌍 TravelVista — Tourism Website
-A modern travel booking platform with smooth UI and dynamic content.
-
-- **Tech Stack:** React, Node.js, MongoDB, Tailwind CSS, Appwrite  
-- 🔗 Live: https://sumaiya7-ops.github.io/TravelVista/  
-- 🛠️ Code: https://github.com/sumaiya7-ops/The-Plant-Kingdom.git  
-
----
-
-### 🛍️ E-commerce Platform
-A scalable e-commerce system with Redux and Stripe integration.
-
-- **Tech Stack:** Next.js, Node.js, MongoDB, Redux Toolkit, Stripe  
-- 🛠️ Code: https://github.com/sumaiya7-ops
-
----
 
 ## 🚀 Tech Stack
 
