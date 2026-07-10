@@ -123,9 +123,9 @@ https://sumaiya-portfolio-pro.vercel.app
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sumaiya7-ops&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sumaiya7-ops&show_icons=true&theme=transparent"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumaiya7-ops&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumaiya7-ops&layout=compact&theme=transparent"/>
 
 </p>
 
