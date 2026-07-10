@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/sumaiya7-ops/sumaiya7-ops/main/github1.png" />
+  <img width="100%" src="https://raw.githubusercontent.com/sumaiya7-ops/sumaiya7-ops/main/https://i.postimg.cc/BZ7XSwB3/github1.png" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Sumaiya</h1>
