@@ -138,14 +138,6 @@ https://sumaiya-portfolio-pro.vercel.app
 
 [![Sumaiya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sumaiya7-ops&theme=tokyo-night&hide_border=true)](https://github.com/sumaiya7-ops)
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sumaiya7-ops&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</p>
-## 👀 Profile Views
 
 <p align="center">
 
