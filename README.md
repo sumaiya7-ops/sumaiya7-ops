@@ -1,24 +1,44 @@
-<!-- Banner -->
+<!-- ========================= HERO ========================= -->
+
 <p align="center">
-  <img width="100%" src="https://i.postimg.cc/BZ7XSwB3/github1.png" />
+  <img src="https://i.postimg.cc/BZ7XSwB3/github1.png" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Sumaiya</h1>
-<h3 align="center">💻 Full Stack Software Engineer | React • Next.js • TypeScript • Node.js • MongoDB</h3>
+<h1 align="center">
+Hi 👋 I'm Sumaiya Sarhand Marjiya
+</h1>
+
+<h3 align="center">
+Full Stack Software Engineer
+</h3>
+
+<p align="center">
+Building Scalable • High-Performance • Modern Web Applications
+</p>
+
+<p align="center">
+
+<a href="https://sumaiya-portfolio-pro.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/sumaiya-sorhad">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:sumaiyakookie307@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Full+Stack+Software+Engineer;React+%7C+Next.js+%7C+TypeScript;Node.js+%7C+Express.js+%7C+MongoDB;Building+Scalable+Web+Applications;Open+to+Global+Remote+Opportunities"/>
+
+</p>
 
 ---
 
-## 🙋‍♂️ About Me
-
-I'm a passionate MERN Stack Developer focused on building responsive, scalable, and user-friendly web applications using modern technologies.
-
-- 📍 Based in Bangladesh  
-- 🚀 Building production-ready full-stack web applications with modern technologies.
-- 🚀 Love building full-stack real-world projects  
-- 🎯 Goal: Build production-ready scalable applications  
-- 💬 Ask me about **React, Node.js, Express, MongoDB, Auth systems**
-
----
 
 ## 💼 Featured Projects
 
