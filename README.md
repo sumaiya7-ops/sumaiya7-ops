@@ -95,7 +95,7 @@ https://sumaiya-portfolio-pro.vercel.app
 
 💻 **Repository**
 
-(https://github.com/sumaiya7-ops/sumaiya-portfolio-pro.git)
+https://github.com/sumaiya7-ops/sumaiya-portfolio-pro.git
 ---
 
 
